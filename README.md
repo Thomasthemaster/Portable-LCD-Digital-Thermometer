@@ -32,13 +32,13 @@ Below is the wiring diagram for the project:
 
 ![Wiring Diagram](Wiring_Diagram.png)
 
-Note: Tinkercad does not include an Arduino Nano, so the wiring diagram and schematic use an Arduino Uno. The circuit connections are equivalent and were implemented on an Arduino Nano in the physical build.
-
 ### Schematic
 
 Below is the schematic generated in Tinkercad:
 
 [![Schematic](Schematic.png)](Schematic.png)
+
+Note: Tinkercad does not include an Arduino Nano or a Power MB V2, which the physical build contains, so the wiring diagram and schematic uses an Arduino Uno R3 instead. 
 
 ---
 
