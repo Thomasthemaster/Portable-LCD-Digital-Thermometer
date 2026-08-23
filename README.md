@@ -41,6 +41,11 @@ Below is the schematic generated in Tinkercad:
 Note: Tinkercad does not include an Arduino Nano, Power MB V2, or DHT11 Temp Sensor, which the physical build contains, so the wiring diagram and schematic will not be included for this repository. 
 
 ---
+## 🖼️ Project Photo
+
+See the project:
+
+[Click here](Project_Photo)
 
 ## 🎥 Video Demonstration
 
