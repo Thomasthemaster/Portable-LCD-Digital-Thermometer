@@ -1,4 +1,4 @@
-# Portable-LCD-Digital-Thermometer
+# Portable LCD Digital Thermometer
 
 A portable digital thermometer with an LCD using a **DHT11 Temperature and Humidity Sensor**.
 
