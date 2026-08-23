@@ -45,7 +45,7 @@ Note: Tinkercad does not include an Arduino Nano, Power MB V2, or DHT11 Temp Sen
 
 See the project:
 
-[Click here](Portable_LCD_Digital_Thermometer.PNG)
+[Click here](Portable_LCD_Digital_Thermometer_Image.PNG)
 
 ## 🎥 Video Demonstration
 
