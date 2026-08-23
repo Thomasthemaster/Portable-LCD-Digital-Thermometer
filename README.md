@@ -38,7 +38,7 @@ Below is the schematic generated in Tinkercad:
 
 [![Schematic](Schematic.png)](Schematic.png)
 
-Note: Tinkercad does not include an Arduino Nano or a Power MB V2, which the physical build contains, so the wiring diagram and schematic uses an Arduino Uno R3 instead. 
+Note: Tinkercad does not include an Arduino Nano, Power MB V2, or DHT11 Temp Sensor, which the physical build contains, so the wiring diagram and schematic will not be included for this repository. 
 
 ---
 
