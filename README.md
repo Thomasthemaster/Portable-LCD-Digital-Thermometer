@@ -49,9 +49,9 @@ See the project:
 
 ## 🎥 Video Demonstration
 
-Watch the project in action:
+Watch the project in action + an explanation of the build:
 
-[▶ Watch the Video](YOUR_YOUTUBE_LINK)
+[▶ Watch the Video](https://www.youtube.com/watch?v=TbRMqvKDyQ4)
 
 ---
 
