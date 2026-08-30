@@ -6,11 +6,7 @@ A portable digital thermometer with an LCD using a **DHT11 Temperature and Humid
 
 ## 🚀 How It Works
 
-Example points to cover:
-- What the Arduino does.
-- How the components interact.
-- What the user sees or does.
-- Any important features.
+Detects temperature and humidity using the DHT11 Sensor. The Arduino receives the data from the DHT11 and prints it to the LCD. The user would see a live temperature and humidity display in their area that gets updated every second. The most significant feature is portability. This is made possible by using an Arduino Nano and a Power MB V2 + 9V Battery.
 
 ### Hardware
 - **Development Board:** Arduino Nano
@@ -38,12 +34,12 @@ Below is the schematic generated in Tinkercad:
 
 [![Schematic](Schematic.png)](Schematic.png)
 
-Note: Tinkercad does not include an Arduino Nano, Power MB V2, or DHT11 Temp Sensor, which the physical build contains, so the wiring diagram and schematic will not be included for this repository. 
+**Note: Tinkercad does not include an Arduino Nano, Power MB V2, or DHT11 Temp Sensor, which the physical build contains, and Tinkercad is the site I usually use. So I apologize as the above links don't work yet. I'm actively building the wiring diagram on a different site though!**
 
 ---
 ## 🖼️ Project Photo
 
-See the project:
+See the project (may have some issues viewing it on desk:
 
 [Click here](Portable_LCD_Digital_Thermometer_Image.PNG)
 
@@ -60,8 +56,8 @@ Watch the project in action + an explanation of the build:
 - `PortableThermometer.ino` — Arduino source code
 - `README.md` — Project documentation
 - `LICENSE` — Apache License 2.0
-- `Wiring_Diagram.png`
-- `Schematic.png`
+- `Wiring_Diagram.png` //soon\\
+- `Schematic.png` //soon\\
 
 ---
 
