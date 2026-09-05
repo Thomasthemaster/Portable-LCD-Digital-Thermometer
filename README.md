@@ -6,7 +6,7 @@ A portable digital thermometer with an LCD using a **DHT11 Temperature and Humid
 
 ## 🚀 How It Works
 
-Detects temperature and humidity using the DHT11 Sensor. The Arduino receives the data from the DHT11 and prints it to the LCD. The user would see a live temperature and humidity display in their area that gets updated every second. The most significant feature is portability. This is made possible by using an Arduino Nano and a Power MB V2 + 9V Battery.
+Detects temperature and humidity using the DHT11 Sensor. The Arduino receives the data from the DHT11 and prints it to the LCD. The user would see a live temperature and humidity display that gets updated every second. The most significant feature is portability. This is made possible by using an Arduino Nano and a Power MB V2 + 9V Battery.
 
 ### Hardware
 - **Development Board:** Arduino Nano
@@ -74,13 +74,7 @@ Watch the project in action + an explanation of the build:
 
 ## 💡 What I Learned
 
-Write a few sentences about what you learned while building the project.
-
-Examples:
-- Working with new sensors
-- Debugging hardware
-- Improving Arduino programming
-- Understanding communication protocols
+I learned to make my projects portable with the Power MB V2 and a 9V battery. I also learned how to use the DHT11 Temperature and Humidity Sensor and practicing using breadboard space wisely.
 
 ---
 
