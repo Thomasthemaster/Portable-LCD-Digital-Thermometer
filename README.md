@@ -56,6 +56,7 @@ Watch the project in action + an explanation of the build:
 - `PortableThermometer.ino` — Arduino source code
 - `README.md` — Project documentation
 - `LICENSE` — Apache License 2.0
+- `Portable_LCD_Digital_Thermometer_Image.PNG` — Project photo
 - `Wiring_Diagram.png` //soon\\
 - `Schematic.png` //soon\\
 
